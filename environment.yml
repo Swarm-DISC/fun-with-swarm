@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - bokeh=2.4
+  - jupyterlab=3.2
+  - jupyterlab-git
+  - jupyter-server-proxy=3.2
+  - matplotlib=3.5
+  - pre-commit
+  - scipy=1.7
+  - panel=0.12
+  - pip
+  - python=3.10
+  - pip:
+    - git+https://github.com/holoviz/jupyter-panel-proxy@c22a7bdc2a69345b74550cac2b7d9220cb6a13a0
+    - hapiclient==0.2.*
