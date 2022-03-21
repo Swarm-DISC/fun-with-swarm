@@ -6,11 +6,14 @@ dependencies:
   - jupyterlab-git
   - jupyter-server-proxy=3.2
   - matplotlib=3.5
+  - ipympl
   - pre-commit
   - scipy=1.7
   - panel=0.12
   - pip
   - python=3.10
+  - resampy=0.2.2
   - pip:
     - git+https://github.com/holoviz/jupyter-panel-proxy@c22a7bdc2a69345b74550cac2b7d9220cb6a13a0
     - hapiclient==0.2.*
+    - pyrubberband==0.3.0

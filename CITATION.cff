@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fun with Swarm"
+repository-code: "https://github.com/Swarm-DISC/fun-with-swarm"
+authors:
+  - family-names: Smith
+    given-names: Ashley R. A.
+    orcid: https://orcid.org/0000-0001-5198-9574
+  - family-names: Linden-Vørnle
+    given-names: Nikolai Deigaard
