@@ -17,3 +17,5 @@ dependencies:
     - git+https://github.com/holoviz/jupyter-panel-proxy@c22a7bdc2a69345b74550cac2b7d9220cb6a13a0
     - hapiclient==0.2.*
     - pyrubberband==0.3.0
+    - git+https://github.com/Swarm-DISC/SwarmX@ac89c5c07a8130ce0083171f552ef5f53f6b5956
+    # - numpy==1.21.5
