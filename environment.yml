@@ -262,13 +262,13 @@ dependencies:
     - hapiclient==0.2.4
     - isodate==0.6.1
     - joblib==1.1.0
-    - jupyter-panel-proxy==0.2.0a2
+    - git+https://github.com/holoviz/jupyter-panel-proxy@c22a7bdc2a69345b74550cac2b7d9220cb6a13a0
     - netcdf4==1.6.0
     - numexpr==2.8.3
     - pandas==1.4.3
     - pyrubberband==0.3.0
     - pysoundfile==0.9.0.post1
-    - swarmx==0.1.0a1
+    - git+https://github.com/Swarm-DISC/SwarmX@ac89c5c07a8130ce0083171f552ef5f53f6b5956
     - tables==3.7.0
     - viresclient==0.10.3
     - xarray==2022.3.0
